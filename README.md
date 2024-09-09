@@ -11,3 +11,13 @@ Manejo de funciones en Python.
 
 ![image](https://github.com/user-attachments/assets/81d43d6c-e3c9-43fc-8ec3-03654daa8013)
 
+## Funciones V2
+
+- Codigo
+  
+  ![image](https://github.com/user-attachments/assets/5a27492f-4d41-4916-b9c7-3fcc8eccbdcc)
+
+- Resultado
+  ![image](https://github.com/user-attachments/assets/c167c35a-c417-4bd4-84e2-5e7154cb3033)
+
+  
